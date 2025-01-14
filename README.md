@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 第一届机器学习和量子计算冬季学校 —— Transformer 学习教程
 
 本仓库是为 2025 年 1 月于南开大学承办的机器学习和量子计算冬季学校准备的 Transformer 相关的教程资料。讲义内容以`Jupyter Notebook`写成。
@@ -55,3 +56,7 @@ ssh -L 8888:localhost:8888 <用户名>@lxlogin004.ihep.ac.cn # 修改8888和lxlo
 第三节将在高能物理实验中事例分类问题进行实战：我们利用 PyTorch + pytorch-lightning 搭建工作流，分别训练一个基础的 MLP 网络，和上节中从零搭建起来的 Transformer 模型；我们会讨论 Transformer 用作分类器的一些要点。最后，我们利用 PyTorch 内建的模块对 Transformer 代码进行简化（预计60分钟）。
 
 第四节将讨论一些前沿的 Transformer 在粒子物理领域开发和应用的进展。我们关注如何针对粒子格式的数据设计性能更优秀的 Tranformer：通过粒子对的不变质量信息作为额外输入，为模型提供 inductive bias。我们从上节的 Transformer 模型开始修改，最终形成类似 Particle Transformer (ParT) 的架构，并讨论由此获得的性能提升。利用已经搭建好的数据流，我们最后提供一个接入 ParT 和 ParticleNet 标准模型文件的接口，利用这些前沿模型训练我们的任务。这为未来在不同的科研场景中适配这些模型提供了一个参考案例（预计60分钟）。
+=======
+# WinterSchool2025
+2025.01.14 in Nan Kan, Tianjin
+>>>>>>> 4eebb6f9ac13715cb989d3f080954c1543eb2fbc
