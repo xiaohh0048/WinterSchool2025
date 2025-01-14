@@ -13,7 +13,7 @@
 | [`chap1_pytorch_basics.ipynb`](chap1_pytorch_basics.ipynb) | [用 Colab 打开](https://colab.research.google.com/github/xiaohh0048/WinterSchool2025/blob/main/chap1_pytorch_basics.ipynb) |
 | [`chap2_transformer_anatomy.ipynb`](chap2_transformer_anatomy.ipynb) | [用 Colab 打开](https://colab.research.google.com/github/xiaohh0048/WinterSchool2025/blob/main/chap2_transformer_anatomy.ipynb) |
 | [`chap3_transformer_training.ipynb`](chap3_transformer_training.ipynb) | [用 Colab 打开](https://colab.research.google.com/github/xiaohh0048/WinterSchool2025/blob/main/chap3_transformer_training.ipynb) |
-| [`chap4_transformer_advanced_usage.ipynb`](chap4_transformer_advanced_usage.ipynb) | [用 Colab 打开](https://colab.research.google.com/github/xiaohh0048/WinterSchool2025/blob/main/chap2_transformer_advanced_usage.ipynb) |
+| [`chap4_transformer_advanced_usage.ipynb`](chap4_transformer_advanced_usage.ipynb) | [用 Colab 打开](https://colab.research.google.com/github/xiaohh0048/WinterSchool2025/blob/main/chap4_transformer_advanced_usage.ipynb) |
 
 ### 方法2：在高能所集群上通过预装的 `Jupyter Lab` 运行
 
